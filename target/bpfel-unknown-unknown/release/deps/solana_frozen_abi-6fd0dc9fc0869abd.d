@@ -1,0 +1,10 @@
+/mnt/c/Users/cjban/dev/learn/solana_bootcamp/solana-bootcamp-lectures/project_specs/proj1/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-6fd0dc9fc0869abd.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs
+
+/mnt/c/Users/cjban/dev/learn/solana_bootcamp/solana-bootcamp-lectures/project_specs/proj1/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-6fd0dc9fc0869abd.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs
+
+/mnt/c/Users/cjban/dev/learn/solana_bootcamp/solana-bootcamp-lectures/project_specs/proj1/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-6fd0dc9fc0869abd.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs:
